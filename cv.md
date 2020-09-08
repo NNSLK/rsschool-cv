@@ -13,6 +13,7 @@
    bootstrap
    webpack
    npm
+   gulp
 
 5. Github: NNSLK
 6. Experience (experience: many courses)
