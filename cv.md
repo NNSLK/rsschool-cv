@@ -14,6 +14,7 @@
    webpack
    npm
    gulp
+   etc
 
 5. Github: NNSLK
 6. Experience (experience: many courses)
